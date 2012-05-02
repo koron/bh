@@ -1,0 +1,13 @@
+---
+# vim: set ts=8 sts=2 sw=2 tw=0 et ft=html:
+Content-Type: text/html
+---
+<!doctype>
+<html>
+  <head>
+    <title>bh</title>
+  </head>
+  <body>
+    <h1>bh</h1>
+  </body>
+</html>
