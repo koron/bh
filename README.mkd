@@ -1,3 +1,7 @@
 # bh - Bourbon House
 
 Ah... yes, it is again.  Please drink this service tequila and calm down.
+
+# License
+
+MIT License.  See LICENSE for details.
